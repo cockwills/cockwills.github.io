@@ -65,7 +65,7 @@ body {
   <p>CONTENT NEEDED</p>
 </div>
   
-  <html>
+<html>
   <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
@@ -74,20 +74,14 @@ body {
 
       function drawTable() {
         var data = new google.visualization.DataTable();
-        data.addColumn('string', 'Classification Name');
-        data.addColumn('number', 'Salaryy');
-        data.addColumn('boolean', 'Is it used?');
+        data.addColumn('string', 'Major Classification Schemes');
+        data.addColumn('number', 'Salary');
+        data.addColumn('boolean', 'Full Time Employee');
         data.addRows([
-          ['Bliss Bibliographic Classification', {v: 10000, f: '$10,000'}, true],
-          ['Brinkler Classification', {v:8000, f: '$8,000'},  false],
-          ['Colon Classification', {v: 12500, f: '$12,500'}, true],
-          ['Columbia-Dinckinson System', {v: 7000, f: '$7,000'},  true],
-          ['Cutter Expansive Classification', {v:2000, f: '$2,000'},  true],
-          ['Dewey Decimal System', {v:5000,   f:'$5,000'},   true],
-          ['Library of Congress Classification', {v:6000,  f:'$6,000'},   true],
-          ['Nippon Decimal Classification', {v:8000,   f:'$8,000'},   true]
-          ['Universal Decimal Classification', {v:4000, f:'$4,000'},   true]
-                                     
+          ['Mike',  {v: 10000, f: '$10,000'}, true],
+          ['Jim',   {v:8000,   f: '$8,000'},  false],
+          ['Alice', {v: 12500, f: '$12,500'}, true],
+          ['Bob',   {v: 7000,  f: '$7,000'},  true]
         ]);
 
         var table = new google.visualization.Table(document.getElementById('table_div'));
@@ -100,6 +94,7 @@ body {
     <div id="table_div"></div>
   </body>
 </html>
+
 
 <div class="footer">
   <p>Footer</p>

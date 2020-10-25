@@ -1,0 +1,57 @@
+<table id="customers">
+  <tr>
+    <th>DEWEY DECIMAL SYSTEM</th>
+    <th>LIBRARY OF CONGRESS</th>
+    <th>GENERAL SUBJECT</th>
+  </tr>
+  <tr>
+    <td>000,040,080 </td>
+    <td>AC</td>
+    <td>General collection</td>
+  </tr>
+  <tr>
+    <td>010,020,090</td>
+    <td>Z</td>
+    <td>Library Science</td>
+  </tr>
+  <tr>
+    <td>Colon Classification</td>
+    <td>???</td>
+    <td>Developed by S.R.Raganathan-Reference # is attached to facets of the text seperated by colons ex. (publication date;author;etc..</td>
+  </tr>
+  <tr>
+    <td>Columbia-Dickinson Classification</td>
+    <td>???l</td>
+    <td>Used for filing printed music-five main categories then medium then composer</td>
+  </tr>
+  <tr>
+    <td>Cutter Expansive Classification</td>
+    <td>???</td>
+    <td>Never fully developed- divides subjects into alphatbetical lists then by numbers denoting subject,author,form,edition date</td>
+  </tr>
+  <tr>
+    <td>Dewey Decimal Classification</td>
+    <td>Enumerative</td>
+    <td>Divides knowledge into 10 main categories then further assigns,10 divisions & 10 Sections</td>
+  </tr>
+  <tr>
+    <td>Library of Congress Classification</td>
+    <td>Enumerative</td>
+    <td>???</td>
+  </tr>
+  <tr>
+    <td>Nippon Decimal Classification</td>
+    <td>Based on Dewey Decimal System</td>
+    <td>Mainly Used for Chinese and Japanese language books</td>
+  </tr>
+  <tr>
+    <td>Universal Decimal Classification</td>
+    <td>Extension of theDewey Decimal System</td>
+    <td>Uses decimals to categorize and symbols to represent additional information</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>

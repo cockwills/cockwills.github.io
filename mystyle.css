@@ -6,3 +6,4 @@ font-size:3em;
 p.fancy{color:#666;
   font-style: oblique;
 }
+p.solid {border-style: solid;}
